@@ -32,3 +32,14 @@ knn_multi_threading.py
 /knn_master.py
 /knn_worker.py
 ```
+
+### sklearn库的SVM
+```
+/skearn-svm.py
+```
+### 使用tensorflow的keras搭建CNN
+主要参考keras官方教程
+```
+/keras-cnn.py
+```
+
